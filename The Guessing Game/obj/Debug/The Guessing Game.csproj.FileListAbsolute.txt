@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\The Guessing Game\The Guessing Game\bin\Debug\The Guessing Game.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\The Guessing Game\The Guessing Game\obj\Debug\The Guessing Game.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\The Guessing Game\The Guessing Game\bin\Debug\The Guessing Game.exe
+c:\users\administrator\documents\visual studio 2015\Projects\The Guessing Game\The Guessing Game\bin\Debug\The Guessing Game.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\The Guessing Game\The Guessing Game\obj\Debug\The Guessing Game.exe
+c:\users\administrator\documents\visual studio 2015\Projects\The Guessing Game\The Guessing Game\obj\Debug\The Guessing Game.pdb
